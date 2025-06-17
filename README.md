@@ -18,4 +18,4 @@ version: 1.0.0
 
 ## Authors
 
-[Elias Abdurrahman](https://github.com/codingWithElias)
+[juan Sanchez](https://github.com/codingWithElias)
